@@ -10,5 +10,6 @@ En este cureso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible platzi team
+* Incluye ejemplos en w, lx, mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñalo para el ejemplo. 
